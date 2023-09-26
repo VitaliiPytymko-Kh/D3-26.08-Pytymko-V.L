@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="D3 26.08 Pytymko V.L.cpp" />
     <ClCompile Include="task2.cpp" />
+    <ClCompile Include="Task3-4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

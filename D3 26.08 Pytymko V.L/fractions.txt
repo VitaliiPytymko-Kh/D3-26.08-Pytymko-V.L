@@ -1,0 +1,4 @@
+Fraction 1: 1/2
+Fraction 2: 3/4
+Fraction 3: 2/3
+Fraction 4: 4/5

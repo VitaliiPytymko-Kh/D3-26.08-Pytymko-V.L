@@ -1,11 +1,11 @@
 //Задача 2: Дан текстовый файл. Необходимо переписать его строки в другой файл.
 //  Порядок строк во втором файле должен совпадать с порядком строк в заданном файле.
 
-#include <iostream>
+/*#include <iostream>
 #include <fstream>
 #include <sstream>
 #include <string>
-/*
+
 int main() {
     setlocale(LC_ALL, "");
     std::ifstream input_file("1.txt");

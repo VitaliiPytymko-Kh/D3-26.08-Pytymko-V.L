@@ -140,7 +140,6 @@ public:
 
 int main() {
     
-
     Drib<int> fractions[4] = {
         Drib<int>(1, 2),   
         Drib<int>(3, 4),   
@@ -198,8 +197,7 @@ int main() {
     cout << "Read Fraction -1 of size : ";
     readFraction.printDrib();
 
-
-   
+       
     return 0;
 
 

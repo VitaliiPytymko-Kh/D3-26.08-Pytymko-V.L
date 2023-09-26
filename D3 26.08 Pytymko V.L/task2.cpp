@@ -28,7 +28,6 @@ int main() {
         output_file1 << "\n";
     }
 
-
     std::cout << "Программа завершена. Результат записан в 3.txt." << std::endl;
     input_file.close();
     output_file1.close();
